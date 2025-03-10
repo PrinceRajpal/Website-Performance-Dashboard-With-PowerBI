@@ -2,7 +2,7 @@
 Developed a comprehensive Power BI dashboard to analyze website performance metrics, including page load times, user engagement, and conversion rates. Utilized DAX formulas and visualizations to identify trends, diagnose bottlenecks, and track progress towards performance goals.  
 
 Data Description
-The dataset, website_performance_analytics.csv, contains the following variables:
+The dataset used (website_performance_analytics.csv), contains the following variables:
 
 Visitor_ID: Unique identifier for each visitor.
 
